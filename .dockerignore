@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js build output
+.next
+out
+
+# Environment variables
+.env
+.env.*
+
+# Version control
+.git
+.gitignore
+
+# IDE files
+.idea
+.vscode
+
+# Misc
+README.md
+*.log
+.DS_Store
+coverage
+
+# Convex files
+convex/_generated
